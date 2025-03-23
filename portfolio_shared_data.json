@@ -8,11 +8,6 @@
           "name": "github",
           "url": "https://github.com/gmralwnr",
           "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com/diet_ming_/",
-          "class": "fab fa-instagram"
         }
       ],
       "image": "minji.jpg"

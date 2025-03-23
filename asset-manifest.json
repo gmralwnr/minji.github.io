@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/minji.github.io/static/css/main.87d0fe68.chunk.css",
-    "main.js": "/minji.github.io/static/js/main.63550083.chunk.js",
-    "main.js.map": "/minji.github.io/static/js/main.63550083.chunk.js.map",
-    "runtime-main.js": "/minji.github.io/static/js/runtime-main.34ea9e4f.js",
-    "runtime-main.js.map": "/minji.github.io/static/js/runtime-main.34ea9e4f.js.map",
-    "static/css/2.d64471e2.chunk.css": "/minji.github.io/static/css/2.d64471e2.chunk.css",
-    "static/js/2.870dcdd9.chunk.js": "/minji.github.io/static/js/2.870dcdd9.chunk.js",
-    "static/js/2.870dcdd9.chunk.js.map": "/minji.github.io/static/js/2.870dcdd9.chunk.js.map",
-    "index.html": "/minji.github.io/index.html",
-    "precache-manifest.ba1c63d911bd3218ca489bc963756ee2.js": "/minji.github.io/precache-manifest.ba1c63d911bd3218ca489bc963756ee2.js",
-    "service-worker.js": "/minji.github.io/service-worker.js",
-    "static/css/2.d64471e2.chunk.css.map": "/minji.github.io/static/css/2.d64471e2.chunk.css.map",
-    "static/css/main.87d0fe68.chunk.css.map": "/minji.github.io/static/css/main.87d0fe68.chunk.css.map",
-    "static/js/2.870dcdd9.chunk.js.LICENSE.txt": "/minji.github.io/static/js/2.870dcdd9.chunk.js.LICENSE.txt"
+    "main.css": "/minji2.github.io/static/css/main.7c40245c.chunk.css",
+    "main.js": "/minji2.github.io/static/js/main.55f411b0.chunk.js",
+    "main.js.map": "/minji2.github.io/static/js/main.55f411b0.chunk.js.map",
+    "runtime-main.js": "/minji2.github.io/static/js/runtime-main.1037c40c.js",
+    "runtime-main.js.map": "/minji2.github.io/static/js/runtime-main.1037c40c.js.map",
+    "static/css/2.3eb2a443.chunk.css": "/minji2.github.io/static/css/2.3eb2a443.chunk.css",
+    "static/js/2.42f02fa0.chunk.js": "/minji2.github.io/static/js/2.42f02fa0.chunk.js",
+    "static/js/2.42f02fa0.chunk.js.map": "/minji2.github.io/static/js/2.42f02fa0.chunk.js.map",
+    "index.html": "/minji2.github.io/index.html",
+    "precache-manifest.f1b33adac5e69fef815870bb23ea8a4e.js": "/minji2.github.io/precache-manifest.f1b33adac5e69fef815870bb23ea8a4e.js",
+    "service-worker.js": "/minji2.github.io/service-worker.js",
+    "static/css/2.3eb2a443.chunk.css.map": "/minji2.github.io/static/css/2.3eb2a443.chunk.css.map",
+    "static/css/main.7c40245c.chunk.css.map": "/minji2.github.io/static/css/main.7c40245c.chunk.css.map",
+    "static/js/2.42f02fa0.chunk.js.LICENSE.txt": "/minji2.github.io/static/js/2.42f02fa0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.34ea9e4f.js",
-    "static/css/2.d64471e2.chunk.css",
-    "static/js/2.870dcdd9.chunk.js",
-    "static/css/main.87d0fe68.chunk.css",
-    "static/js/main.63550083.chunk.js"
+    "static/js/runtime-main.1037c40c.js",
+    "static/css/2.3eb2a443.chunk.css",
+    "static/js/2.42f02fa0.chunk.js",
+    "static/css/main.7c40245c.chunk.css",
+    "static/js/main.55f411b0.chunk.js"
   ]
 }
